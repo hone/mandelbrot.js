@@ -1,0 +1,9 @@
+{
+  "name": "mandelbrot",
+  "version": "0.1.0",
+  "description": "JavaScript mandelbrot generator",
+  "main": "index.js",
+  "repository": "https://github.com/hone/mandelbrot.js",
+  "author": "Terence Lee <hone02@gmail.com>",
+  "license": "MIT"
+}
